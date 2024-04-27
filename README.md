@@ -22,27 +22,27 @@ https://20a31a0516.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
 
 SHEET 1 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Emission1#1
 
 SHEET 2 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Emission2#1
 
 SHEET 3 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission3?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Emission3#1
 
 SHEET 4 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission4?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Emission4#1
 
 DASHBOARD 1 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Dashboard1#1
 
 DASHBOARD 2 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Dashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/authoring/CO2Emission_17141965621540/Dashboard2#1
 
 STORY :
 
