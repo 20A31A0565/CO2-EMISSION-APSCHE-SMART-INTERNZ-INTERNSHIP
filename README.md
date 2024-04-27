@@ -46,4 +46,4 @@ https://public.tableau.com/shared/S8DB9GGCS?:display_count=n&:origin=viz_share_l
 
 STORY :
 
-https://public.tableau.com/shared/FSYD89ZS6?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CO2EmissionProject_17141969197770/CO2EMISSSION?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
