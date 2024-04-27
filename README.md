@@ -4,15 +4,15 @@ Welcome to the CO2 Emission Analysis Visualization Project! This repository is c
 
 Following are my details:
 
-MY NAME: Nallamilli Aisshwarya
+MY NAME: Aakash Yarrapragada
 
-MY MAIL ID: nallamilliaisshwarya@gmail.com
+MY MAIL ID: aakashyarrapragada3@gmail.com
 
 ACADEMIC DETAILS: B.Tech(CSE),4th Year (8th Sem)
 
 COLLEGE NAME: Pragati Engineering College
 
-ROLL NUMBER: 20A31A0516
+ROLL NUMBER: 20A31A0565
 
 IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
